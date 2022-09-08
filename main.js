@@ -43,6 +43,7 @@ function catchFish(codChance, salmonChance, tropicalChance) {
   salmonChance /= 100;
   tropicalChance /= 100;
 
+  // get random number and catch fish based on probability
   let randNum = Math.random();
   if (randNum < codChance) {
     numCod++;
