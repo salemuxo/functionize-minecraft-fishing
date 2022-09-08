@@ -1,2 +1,2 @@
 # minecraft-fishing-js
- Minecraft Fishing Simulator Example
+ CS20 Functionize Minecraft Fishing Assignment
